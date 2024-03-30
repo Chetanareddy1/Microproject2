@@ -1,8 +1,4 @@
-
-body{
-  max-height: 50px;
-  max-width: 50px;
-}.home {
+.home {
   margin: 6px 48.2px 3px 0;
   display: inline-block;
   overflow-wrap: break-word;
